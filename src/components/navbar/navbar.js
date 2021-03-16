@@ -1,6 +1,7 @@
 import React from 'react';
+import Nav from '../nav/nav';
 
-export default function navbar() {
+export default function Navbar() {
     return (
         <div>
             <Navbar bg="dark" variant="dark">
