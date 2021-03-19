@@ -4,7 +4,6 @@ import Navbar from './navbar';
 export default function ContactCard() {
     return (
         <div>
-            <Navbar />
             <div>
                 <h1>I'd love to hear from you!</h1>
                 <p>
