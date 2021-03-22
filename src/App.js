@@ -11,9 +11,9 @@ export default function App() {
     <Router>
       <Header />
         <Route exact path='/' component={About} />
-        <Route exact path='/about' component={About} />
-        <Route exact path='/portfolio' component={Portfolio} />
-        <Route exact path='/contact' component={Contact} />
+        <Route exact path='/About' component={About} />
+        <Route exact path='/Portfolio' component={Portfolio} />
+        <Route exact path='/Contact' component={Contact} />
         <br />
       <Footer />  
     </Router>
