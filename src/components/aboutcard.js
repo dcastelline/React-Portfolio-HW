@@ -1,14 +1,13 @@
 import React from 'react';
-import Navbar from './navbar';
 import AboutImg from './assets/AboutImg.png'
 
 export default function AboutCard() {
     return (
         <div>
-            <div className="row">
-                <img alt="Me" src={AboutImg} roundedCircle />
+            <div className="image-row">
+                <img alt="Me" src={AboutImg} height="200" width="200" />
             </div>
-            <div className="row">
+            <div className="text-row">
                 <p>
                     Hello there.
                 </p>
