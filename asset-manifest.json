@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/React-Portfolio/static/js/main.45710647.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.45710647.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.7c2ed3d7.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.7c2ed3d7.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/React-Portfolio/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.022dcf3d.chunk.js": "/React-Portfolio/static/js/2.022dcf3d.chunk.js",
+    "static/js/2.022dcf3d.chunk.js.map": "/React-Portfolio/static/js/2.022dcf3d.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/React-Portfolio/static/css/2.4c97ca4f.chunk.css.map",
+    "static/js/2.022dcf3d.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.022dcf3d.chunk.js.LICENSE.txt",
+    "static/media/AboutImg.21e4ff2c.png": "/React-Portfolio/static/media/AboutImg.21e4ff2c.png",
+    "static/media/DayPlanner.6f04fdad.png": "/React-Portfolio/static/media/DayPlanner.6f04fdad.png",
+    "static/media/NoteTaker.23569701.png": "/React-Portfolio/static/media/NoteTaker.23569701.png",
+    "static/media/PasswordGenerator.ad91d816.png": "/React-Portfolio/static/media/PasswordGenerator.ad91d816.png",
+    "static/media/README.a0ca60ae.png": "/React-Portfolio/static/media/README.a0ca60ae.png",
+    "static/media/RescueSpot.6be65ce9.png": "/React-Portfolio/static/media/RescueSpot.6be65ce9.png",
+    "static/media/TeamProfileGenerator.f31cafd5.png": "/React-Portfolio/static/media/TeamProfileGenerator.f31cafd5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c2ed3d7.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.022dcf3d.chunk.js",
+    "static/js/main.45710647.chunk.js"
+  ]
+}
