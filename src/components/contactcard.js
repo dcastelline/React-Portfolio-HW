@@ -17,7 +17,12 @@ export default function ContactCard() {
                 <p>
                     GitHub: <a href="https://github.com/dcastelline">dcastelline</a>
                 </p>
+                <p>
                     LinkedIn: <a href="https://www.linkedin.com/in/daniel-castelline/">Daniel Castelline</a>
+                </p>
+                <p>
+                    View my resume <a href="https://drive.google.com/file/d/1WferJhmMiIEjbggd8cmAGZMP7Us56E17/view?usp=sharing">here</a>
+                </p>
             </div>
         </div>
         
